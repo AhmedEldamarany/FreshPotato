@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The Complete GPA Calculator</string>
+    <string name="Hello">خير إن شاء الله</string>
+    <string-array name="Grades">
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
